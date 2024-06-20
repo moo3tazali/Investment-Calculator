@@ -36,4 +36,4 @@ Run `ng test` to execute unit tests via Karma.
 
 Run `ng e2e` to execute end-to-end tests using a platform of your choice.
 
-For more information, visit the [repository](https://github.com/moo3tazali/Investment-Calculator).
+For live tests, visit the [Investment Calculator](https://investment-calculator-585790b.web.app).
