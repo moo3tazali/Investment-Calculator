@@ -1,27 +1,39 @@
-# EssentialsPractice
+# Investment Calculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+This project is an Investment Calculator built with Angular.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Investment Calculation**: Provides functionality to calculate potential investment returns.
+- **User Input Handling**: Accepts various user inputs to tailor investment calculations.
+- **Interactive UI**: Responsive and user-friendly interface.
 
-## Code scaffolding
+## Angular Version
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project uses **Angular version 18.0.0-next.2**.
+
+## Module System
+
+The application is built using the old module system, not standalone components.
+
+## Signals and Computed
+
+Utilizes Angular's new **signal** and **computed** features to handle reactive state management efficiently.
+
+## Development Server
+
+Run `ng serve` to start a dev server. Navigate to `http://localhost:4200/`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Unit Tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute unit tests via Karma.
 
-## Running end-to-end tests
+## End-to-End Tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run `ng e2e` to execute end-to-end tests using a platform of your choice.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more information, visit the [repository](https://github.com/moo3tazali/Investment-Calculator).
